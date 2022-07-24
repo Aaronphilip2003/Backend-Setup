@@ -1,5 +1,5 @@
 # Backend Setup
-![[Pasted image 20220724221946.png]]
+![image](https://user-images.githubusercontent.com/69317200/180659326-24d9cfb4-48a0-43a6-9e1e-f6001b32043b.png)
 
 ## Server Side
 - set a connection url and connect it to the mogodb cluster 
@@ -9,7 +9,7 @@
 
 connect the connection_url using mongoose :
 
-![[Pasted image 20220724223335.png]]
+![image](https://user-images.githubusercontent.com/69317200/180659341-196b3967-ab78-4b63-b1ee-b3b1a1ac8718.png)
 
 Make 3 folders in the server side :
-![[Pasted image 20220724225120.png]]
+![image](https://user-images.githubusercontent.com/69317200/180659361-302ff9d7-b73d-4a5b-a161-e691d857f557.png)
